@@ -1,4 +1,4 @@
-/*In JavaScript, si definisca una classe Employee per rappresentare gli impiegati di una ditta,
+OIOI/*In JavaScript, si definisca una classe Employee per rappresentare gli impiegati di una ditta,
  in termini dei loro name e surname. 
 
 La classe Employee deve inoltre fornire un getter id che restituisca l'identificatore di ciascun impiegato,
