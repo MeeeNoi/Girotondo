@@ -70,7 +70,8 @@ class Schedule{
         else throw new MissingEmployeeError
     }
 }
-
+console.log(" Si va a letto ?!🛏️")
+            
 let js = new Employee("Gho","Hjo")
 let ks = new Employee("Gigio","Jko")
 let w = new Schedule()
